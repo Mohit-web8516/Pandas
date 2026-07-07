@@ -1,0 +1,12 @@
+1- columns, rows ?
+2- what type of??
+3- missing data??
+
+info() method provide a concise info about dataset
+
+it will tell about 
+1- number of rows and columns
+2- columns
+3- int64 float64 objects
+4- non null counts 
+5- memory usage of the data frame 
