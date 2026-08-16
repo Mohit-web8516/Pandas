@@ -10,7 +10,9 @@ data = {
 
 df = pd.DataFrame(data)
 
-print(df)
+
+
+# print(df)
 
 #Fill every missing value
 
@@ -25,3 +27,5 @@ df["Salary"] = df["Salary"].fillna(df["Salary"].mean())
 
 
 print(df)
+
+
