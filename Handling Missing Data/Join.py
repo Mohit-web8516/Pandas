@@ -7,10 +7,9 @@ employee = pd.DataFrame(
     },
     index=[101, 102, 103, 104]
 )
-
 salary = pd.DataFrame(
     {
-        "Salary": [35000, 42000, 50000, 70000]
+        "Salary": [35000,  42000 , 50000, 70000]
     },
     index=[101, 102, 103, 105]
 )
