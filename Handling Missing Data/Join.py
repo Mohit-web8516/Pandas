@@ -6,7 +6,7 @@ employee = pd.DataFrame(
         "Department": ["IT", "HR", "Finance", "Marketing"]
     },
     index=[101, 102, 103, 104]
-)
+)   
 salary = pd.DataFrame(
     {
         "Salary": [35000,  42000 , 50000, 70000]
