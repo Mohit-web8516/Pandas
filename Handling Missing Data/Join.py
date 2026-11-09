@@ -5,7 +5,7 @@ employee = pd.DataFrame(
         "Employee": ["Mohit", "Rahul", "Aman", "Priya"],
         "Department": ["IT", "HR", "Finance", "Marketing"]
     },
-    index=[101, 102, 103, 104,105]
+    index=[101, 102, 103, 104]
 )        
 salary = pd.DataFrame(
     {
