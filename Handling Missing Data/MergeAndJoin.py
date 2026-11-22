@@ -38,7 +38,7 @@ employee = {
 }
 
 salary = {
-    "Employee ID":[101,102,103,105],
+    "Employee ID":[101,102,103,105 ],
     "Salary":[35000,42000,50000,60000]
 }
 
