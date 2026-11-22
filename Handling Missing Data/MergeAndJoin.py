@@ -61,4 +61,4 @@ print("\nRight Merge")
 print(pd.merge(df_employee, df_salary, on="Employee ID", how="right"))
 
 print("\nOuter Merge")
-print(pd.merge(df_employee, df_salary, on="Employee ID", how="outer"))
+print(pd.merge(df_employee,  df_salary, on="Employee ID", how="outer"))
